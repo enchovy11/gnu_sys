@@ -1,0 +1,8 @@
+# Root-level ignore
+.DS_Store
+.vscode/
+*.log
+.env
+__pycache__/
+node_modules/
+.venv/
